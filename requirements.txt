@@ -1,0 +1,5 @@
+python-telegram-bot
+gspread
+pytz
+requests
+bs4
